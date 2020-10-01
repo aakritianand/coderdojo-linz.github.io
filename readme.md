@@ -12,5 +12,5 @@ This repository contains the source code for the website of [CoderDojo Linz](htt
 
 ## DNS
 
-* The website is made available by GitHub Pages at [https://coderdojo-linz.github.io](https://coderdojo-linz.github.io). This is **not** our official DNS name. We used it in the past and it exists because of historical reasons.
+* This website is made available by GitHub Pages at [https://coderdojo-linz.github.io](https://coderdojo-linz.github.io). This is **not** our official DNS name. We used it in the past and it exists because of our historical reasons.
 * We run an *Azure CDN* on top of GitHub Pages serving [https://linz.coderdojo.net](https://linz.coderdojo.net). This **is our official** DNS name.
